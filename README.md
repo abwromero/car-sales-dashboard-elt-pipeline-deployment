@@ -24,7 +24,7 @@ II. Pre-requisites
 III. Installation
 
 * Clone the Git repository for the Terraform scripts
-    * Link: https://github.com/abwromero/car-sales-dashboard-elt-pipeline-deployment
+    * git clone https://github.com/abwromero/car-sales-dashboard-elt-pipeline-deployment.git
 NOTE: The scripts for dlt, dbt, and Soda will be cloned later inside the Mage container. No need to clone these files in your local directory.
 
 IV. Explanation of AWS Services for This Project
